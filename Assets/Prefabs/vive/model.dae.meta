@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: e88b37c9b536120498a1c1200958adfb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: box_normalMapends_detall2
+    100002: cantonades2
+    100004: cantonades3
+    100006: detall2
+    100008: ganxo_tancament1
+    100010: //RootNode
+    100012: part_inferior1
+    100014: part_inferior_tancament1
+    100016: part_superior2
+    100018: part_superior_tancament1
+    100020: pCube8
+    400000: box_normalMapends_detall2
+    400002: cantonades2
+    400004: cantonades3
+    400006: detall2
+    400008: ganxo_tancament1
+    400010: //RootNode
+    400012: part_inferior1
+    400014: part_inferior_tancament1
+    400016: part_superior2
+    400018: part_superior_tancament1
+    400020: pCube8
+    2100000: lambert1
+    2300000: box_normalMapends_detall2
+    2300002: cantonades2
+    2300004: cantonades3
+    2300006: detall2
+    2300008: ganxo_tancament1
+    2300010: part_inferior1
+    2300012: part_inferior_tancament1
+    2300014: part_superior2
+    2300016: part_superior_tancament1
+    2300018: pCube8
+    3300000: box_normalMapends_detall2
+    3300002: cantonades2
+    3300004: cantonades3
+    3300006: detall2
+    3300008: ganxo_tancament1
+    3300010: part_inferior1
+    3300012: part_inferior_tancament1
+    3300014: part_superior2
+    3300016: part_superior_tancament1
+    3300018: pCube8
+    4300000: detall2
+    4300002: pCube8
+    4300004: ganxo_tancament1
+    4300006: part_inferior1
+    4300008: part_superior2
+    4300010: cantonades3
+    4300012: cantonades2
+    4300014: part_superior_tancament1
+    4300016: part_inferior_tancament1
+    4300018: box_normalMapends_detall2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
