@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Navya/Test1.unity
+- path: Assets/Kaviya/Scenes/Terminologies.unity
   isLoaded: 1
   isActive: 1
