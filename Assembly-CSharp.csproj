@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5BC89188-FE38-91A6-8F85-90F786449265}</ProjectGuid>
+    <ProjectGuid>{E5A2ED62-939E-5FC1-B49C-157AE6E8423C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -171,25 +171,25 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\HoloToolkit\UX\Shaders\3DTextShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.WindowsMR.Editor">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.XR.WindowsMR.Editor.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.XR.WindowsMR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.WindowsMR">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/ScriptAssemblies/Unity.XR.WindowsMR.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/ScriptAssemblies/Unity.XR.WindowsMR.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -396,13 +396,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Owner/Documents/UnityProjects/CyberPhysicalSystem-master/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Owner/Documents/UnityProjects/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -761,19 +761,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{B9902C67-8A70-DF2A-46D0-E3C8C1CED29F}</Project>
+      <Project>{735F9915-6093-D2D8-0D57-566BBFD1ED99}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaEditorScripts.csproj">
-      <Project>{173B1B8C-CE79-6313-174D-B83AF7ACFC72}</Project>
+      <Project>{3C801EA6-4685-B7A3-2381-A48DE8F3475A}</Project>
       <Name>VuforiaEditorScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaVersionCheckerScripts.csproj">
-      <Project>{E2160EAD-E858-CE11-CE5F-A670AA55A580}</Project>
+      <Project>{D31C5335-04B6-F841-27E7-10923FCC70E7}</Project>
       <Name>VuforiaVersionCheckerScripts</Name>
     </ProjectReference>
     <ProjectReference Include="WindowsMRCheckerScripts.csproj">
-      <Project>{B55F2F9F-723C-48E2-6E44-85ECF52CB273}</Project>
+      <Project>{85D7F34C-774E-395E-FE76-62A85005429E}</Project>
       <Name>WindowsMRCheckerScripts</Name>
     </ProjectReference>
   </ItemGroup>
