@@ -5,6 +5,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 >>>>>>> f30e7a6000d2240e9229a3c9bd3aba6cb0aa0f0c
 Cmd: initializeCompiler
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Cmd: preprocess
   insize=3466 outsize=1210 ok=1
@@ -151,3 +152,28 @@ Unhandled exception: Protocol error - unexpected end of data (did the Editor cra
 
 Quitting shader compiler process
 >>>>>>> 895a8b8588d0a81ac569e5205b71afd6b9f372da
+=======
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> Stashed changes
