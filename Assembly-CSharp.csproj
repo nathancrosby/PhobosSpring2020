@@ -122,7 +122,7 @@
      <Compile Include="Assets\SampleResources\Scripts\ButtonTile.cs" />
      <Compile Include="Assets\SampleResources\Scripts\Cursor.cs" />
      <Compile Include="Assets\SampleResources\Scripts\CustomTurnOffBehaviour.cs" />
-     <Compile Include="Assets\SampleResources\Scripts\HelpMenu.cs" />
+     <Compile Include="Assets\SampleResources\Scripts\HelpMenu2.cs" />
      <Compile Include="Assets\SampleResources\Scripts\MainMenu.cs" />
      <Compile Include="Assets\SampleResources\Scripts\Versions.cs" />
      <Compile Include="Assets\SampleResources\Scripts\VoiceCommands.cs" />
@@ -430,9 +430,6 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
@@ -441,9 +438,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
