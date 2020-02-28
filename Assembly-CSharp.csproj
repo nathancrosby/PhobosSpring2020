@@ -84,6 +84,30 @@
      <Compile Include="Assets\HoloToolkit\Utilities\Scripts\FixedAngularSize.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Scripts\SimpleTagalong.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Tagalong.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Augmented.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Bloom.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Control.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ01.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ012.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ123.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ234.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ345.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ456.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ567.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\FAQ670.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Gestures.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\HelpMenu.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Hologram.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\HoloLens.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Options.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Phobos.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Pinch.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\PlayAnimation.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Simulation.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Terminologies.cs" />
+     <Compile Include="Assets\Kaviya\Scenes\Virtual.cs" />
+     <Compile Include="Assets\Kaviya\Starfield Skybox\Demo\Script\Helpsubmenu.cs" />
+     <Compile Include="Assets\Kaviya\Starfield Skybox\Demo\Script\LookCamera.cs" />
      <Compile Include="Assets\SampleResources\SceneAssets\ModelTargets\Scripts\DepthCanvas.cs" />
      <Compile Include="Assets\SampleResources\SceneAssets\ModelTargets\Scripts\ModelTargetsManager.cs" />
      <Compile Include="Assets\SampleResources\SceneAssets\ModelTargets\Scripts\ModelTargetsUIManager.cs" />
@@ -121,16 +145,26 @@
      <None Include="Assets\HoloToolkit\UX\Shaders\HUXButtonShader.shader" />
      <None Include="Assets\SampleResources\SceneAssets\ModelTargetsTrained\Shaders\TimedDiffuseNoCull.shader" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\PrefabImport\References_Licence\References.txt" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\PrefabImport\Workplace Tools\README.txt" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget360.xml" />
      <None Include="Assets\StreamingAssets\Vuforia\Vuforia_Motorcycle_Marslander.xml" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\PrefabImport\References_Licence\licence_it.txt" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
      <None Include="Assets\SampleResources\SceneAssets\ModelTargetsTrained\Shaders\Scan.shader" />
@@ -142,22 +176,30 @@
      <None Include="Assets\Common\TextMeshPro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\HoloToolkit\MRTKVersion.txt" />
      <None Include="Assets\SampleResources\AugmentationAssets\Shaders\RadialTexture.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\HoloToolkit\UX\Shaders\HUXButtonHighlightShader.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
      <None Include="Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\HoloToolkit\License.txt" />
+     <None Include="Assets\Kaviya\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
@@ -388,6 +430,9 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
@@ -396,6 +441,9 @@
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>D:/Class Work/CyberPhysical/PhobosSpring2020/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
