@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Nate/Test1.unity
+=======
+- path: Assets/Scenes/Kong Scenes/Test2.unity
+>>>>>>> ac34d734b942fbc050986c612cfecdb2fe6ed1da
   isLoaded: 1
   isActive: 1
