@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 100
+  controlID: 24
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 311
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 303
     height: 442
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 101
+  controlID: 25
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 102
+  controlID: 26
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -347,9 +347,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 180}
-    m_SelectedIDs: a42a0000
-    m_LastClickedID: 10916
-    m_ExpandedIDs: 00000000782a0000a42a0000502b0000ca3a0000e83a0000e03c0000c24600007e5200002453000000ca9a3b
+    m_SelectedIDs: 002a0000
+    m_LastClickedID: 10752
+    m_ExpandedIDs: 00000000d2290000002a0000b02a00002e3a00004c3a00004a3c00002c460000f25100009a52000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000782a0000a42a0000502b0000ca3a0000e83a0000e03c0000c24600007e52000024530000
+    m_ExpandedIDs: 00000000d2290000002a0000b02a00002e3a00004c3a00004a3c00002c460000f25100009a520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -408,15 +408,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Control
-      m_OriginalName: Control
+      m_Name: FAQE
+      m_OriginalName: FAQE
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 21244
+      m_UserData: 18190
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -429,7 +429,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 161}
+    m_ScrollPosition: {x: 0, y: 41}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 022b0000
+      m_SelectedIDs: d0460000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2adffffff2dfffff04e3ffff12e4ffff72e8ffff7ceeffffcaeeffff48efffffb2f3ffff18f5ffff66f8ffff14faffffc2faffff7a5f0000e2620000047b0000
+      m_ExpandedIDs: 1ce3ffff40e3ffff64e3ffff88e3fffface3ffffd0e3fffff4e3ffff18e4ffff3ce4ffff5ce4ffffb0e9ffff0cedffffcef1fffff2f1ffff16f2ffff40f2ffff64f2ffff8ef2ffff14f3ffff3af3ffff5ef3ffff86f3ffff30f4ffff54f4ffff78f4ffff9cf4ffffc2f4ffffb4fbffffc07d0000dc7f0000a6820000a48300009a840000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -554,9 +554,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 745.8638, y: 266.99384, z: -55.42279}
+    m_Target: {x: 461, y: 182.5, z: 0}
     speed: 2
-    m_Value: {x: 745.8638, y: 266.99384, z: -55.42279}
+    m_Value: {x: 461, y: 182.5, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -588,9 +588,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.050977007, y: -0.005992186, z: 0.00030586636, w: 0.99868184}
   m_Size:
-    m_Target: 888.0519
+    m_Target: 596.69446
     speed: 2
-    m_Value: 888.0519
+    m_Value: 596.69446
   m_Ortho:
     m_Target: 0
     speed: 2

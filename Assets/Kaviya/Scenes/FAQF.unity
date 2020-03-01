@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3038357, g: 0.307597, b: 0.3553671, a: 1}
+  m_IndirectSpecularColor: {r: 0.3038352, g: 0.3075978, b: 0.3553664, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1051,7 +1051,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 7)
+  m_text: "7) What are the Hologram Commands that could be \n     used with the 3D
+    Object?\n     Commands that can be used while gazing at an\n     object :\n     -
+    \"Bigger\"                   - \"Move this\"\n     - \"Smaller\"                 -
+    \"Follow Me\"\n     - \"Face Me\"               - \"Close\"\n     "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1096,7 +1099,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 279
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1120,12 +1123,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1742281291}
-    characterCount: 2
+    characterCount: 284
     spriteCount: 0
-    spaceCount: 0
-    wordCount: 1
+    spaceCount: 124
+    wordCount: 39
     linkCount: 0
-    lineCount: 1
+    lineCount: 8
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
