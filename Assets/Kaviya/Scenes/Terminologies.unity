@@ -501,7 +501,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: HoloLens
         m_Mode: 1
         m_Arguments:
@@ -560,7 +560,6 @@ GameObject:
   - component: {fileID: 162972386}
   - component: {fileID: 162972385}
   - component: {fileID: 162972389}
-  - component: {fileID: 162972390}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -667,20 +666,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 162972384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d3c0b8aad3933a4c8d0c3a45a5a2559, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  myDropdown: {fileID: 0}
---- !u!114 &162972390
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 162972384}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7abb3305cf36bf54da8a2ed0e778a281, type: 3}
+  m_Script: {fileID: 11500000, guid: a145c322f4109d64a81d295ae6712ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &390711412
@@ -762,7 +748,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: AugmentedReality
         m_Mode: 1
         m_Arguments:
@@ -844,7 +830,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -100, y: 170}
+  m_AnchoredPosition: {x: -90, y: 160}
   m_SizeDelta: {x: 700, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &416287455
@@ -1001,7 +987,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: Simulation
         m_Mode: 1
         m_Arguments:
@@ -1126,7 +1112,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: Gestures
         m_Mode: 1
         m_Arguments:
@@ -1406,7 +1392,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: Hologram
         m_Mode: 1
         m_Arguments:
@@ -2155,7 +2141,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: VirtualReality
         m_Mode: 1
         m_Arguments:
@@ -2827,8 +2813,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
-        m_MethodName: AugmentedReality
+      - m_Target: {fileID: 162972389}
+        m_MethodName: PHOBOS
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3066,7 +3052,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 380, y: 169}
+  m_AnchoredPosition: {x: 360, y: 160}
   m_SizeDelta: {x: 160, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1706801732
@@ -3234,7 +3220,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: Virtual
         m_Mode: 1
         m_Arguments:
@@ -3359,7 +3345,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 162972390}
+      - m_Target: {fileID: 162972389}
         m_MethodName: Immersion
         m_Mode: 1
         m_Arguments:

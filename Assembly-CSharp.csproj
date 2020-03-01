@@ -106,10 +106,12 @@
     <Compile Include="Assets\Kaviya\Scenes\HelpMenu.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Hologram.cs" />
     <Compile Include="Assets\Kaviya\Scenes\HoloLens.cs" />
+    <Compile Include="Assets\Kaviya\Scenes\Immersion.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Options.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Phobos.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Pinch.cs" />
     <Compile Include="Assets\Kaviya\Scenes\PlayAnimation.cs" />
+    <Compile Include="Assets\Kaviya\Scenes\Prototype.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Simulation.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Terminologies.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Virtual.cs" />

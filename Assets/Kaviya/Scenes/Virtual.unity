@@ -472,10 +472,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: " Virtual Reality : The Technology which enables the creation of simulated
-    or artificial\n environment. The experience can be completely similar to the real
-    world or imaginary.  \n The real world feel is experienced through immersion aided
-    by simulation environment.\n"
+  m_text: "  Virtual Reality : The Technology which enables the creation of simulated
+    \n  or artificial environment. The experience can be completely similar to the
+    \n  real world or imaginary. The real world feel is experienced through \n  immersion
+    aided by simulation environment.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -544,12 +544,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1149611878}
-    characterCount: 264
+    characterCount: 270
     spriteCount: 0
-    spaceCount: 43
+    spaceCount: 49
     wordCount: 38
     linkCount: 0
-    lineCount: 3
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -685,7 +685,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1193819459}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d07322e0610bd44b9ccff7512b0d805, type: 3}
+  m_Script: {fileID: 11500000, guid: 549be8d96588f084ea18aeebdfec6f39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1331488438
@@ -724,7 +724,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -350, y: 152}
+  m_AnchoredPosition: {x: -300, y: 152}
   m_SizeDelta: {x: 250, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1331488440
@@ -918,8 +918,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.27887, y: -30}
-  m_SizeDelta: {x: 1000, y: 250}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 850, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1964527099
 MonoBehaviour:
