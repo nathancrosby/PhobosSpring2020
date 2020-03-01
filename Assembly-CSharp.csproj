@@ -93,6 +93,7 @@
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Tagalong.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Augmented.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Bloom.cs" />
+    <Compile Include="Assets\Kaviya\Scenes\BloomAnimation.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Control.cs" />
     <Compile Include="Assets\Kaviya\Scenes\FAQ01.cs" />
     <Compile Include="Assets\Kaviya\Scenes\FAQ012.cs" />
@@ -110,6 +111,7 @@
     <Compile Include="Assets\Kaviya\Scenes\Options.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Phobos.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Pinch.cs" />
+    <Compile Include="Assets\Kaviya\Scenes\PinchAnimation.cs" />
     <Compile Include="Assets\Kaviya\Scenes\PlayAnimation.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Prototype.cs" />
     <Compile Include="Assets\Kaviya\Scenes\Simulation.cs" />

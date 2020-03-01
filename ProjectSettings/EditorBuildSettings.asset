@@ -83,4 +83,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Kaviya/Scenes/Leo/Pinch.unity
     guid: a5d9c39810ac75041bd6d56b843792bd
+  - enabled: 1
+    path: Assets/Kaviya/Scenes/BloomAnimation.unity
+    guid: 8d9947a17a8153c4bbb5ff315146f213
+  - enabled: 1
+    path: Assets/Kaviya/Scenes/PinchAnimation.unity
+    guid: 1cf9891ca0be7d74da99b94d4690bfed
   m_configObjects: {}

@@ -10,4 +10,12 @@ public class Control : MonoBehaviour
     {
         SceneManager.LoadScene("Help");
     }
+    public void Bloom()
+    {
+        SceneManager.LoadScene("BloomAnimation");
+    }
+    public void Pinch()
+    {
+        SceneManager.LoadScene("PinchAnimation");
+    }
 }

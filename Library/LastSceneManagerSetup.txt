@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Kaviya/Scenes/Help.unity
+- path: Assets/Kaviya/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
