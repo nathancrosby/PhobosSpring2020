@@ -152,7 +152,7 @@ public class NewProjectController : MonoBehaviour
     }
     private void RamInsertion()
     {
-        anim.Play("Ram_insertion");
+        anim.Play("Ram_insertion_box");
     }
     private void RamInsertionRestart()
     {

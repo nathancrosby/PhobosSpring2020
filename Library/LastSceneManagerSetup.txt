@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Kaviya/Scenes/FAQA.unity
+=======
+- path: Assets/Scenes/Nate/Test1.unity
+>>>>>>> small changes to the ram animation
   isLoaded: 1
   isActive: 1
