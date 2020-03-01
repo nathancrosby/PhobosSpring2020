@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Kaviya/Scenes/Virtual.unity
+- path: Assets/Kaviya/Scenes/Help.unity
   isLoaded: 1
   isActive: 1
