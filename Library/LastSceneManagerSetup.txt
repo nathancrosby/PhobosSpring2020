@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Kaviya/Scenes/FAQA.unity
-=======
-- path: Assets/Scenes/Nate/Test1.unity
->>>>>>> small changes to the ram animation
+- path: Assets/Scenes/Kong Scenes/Test3.unity
   isLoaded: 1
   isActive: 1
