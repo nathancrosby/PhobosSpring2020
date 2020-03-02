@@ -138,7 +138,7 @@ public class NewProjectController : MonoBehaviour
     }
     private void ScrewsRev()
     {
-        anim.Play("Screwdriver reverse animation");
+        anim.Play("ScrewDriverBoxReverse");
     }
     private void ScrewsRestart()
     {
@@ -147,7 +147,7 @@ public class NewProjectController : MonoBehaviour
     }
     private void ScrewsRevRestart()
     {
-        anim.Play("Screwdriver reverse start");
+        anim.Play("ScrewDriverBoxRevStart");
         //anim.Play("Screwdriver animation");
     }
     private void RamInsertion()
