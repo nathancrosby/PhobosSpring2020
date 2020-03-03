@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InitializeProcess : MonoBehaviour
 {
@@ -23,6 +24,8 @@ public class InitializeProcess : MonoBehaviour
     {
         //Debug.Log("OnSelect() called on: " + gameObject.name);
 
-        taskProcess.SetActive(true);
+        //taskProcess.SetActive(true);
+        SceneManager.LoadScene("MainMenu");
     }
 }
+

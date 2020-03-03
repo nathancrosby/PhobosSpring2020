@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 8cb46ed000fd4be40a0844bc43b13abc
   - enabled: 0
@@ -15,78 +15,84 @@ EditorBuildSettings:
     path: Assets/Scenes/Environment.unity
     guid: 73396cc3f1552ff4886165fe7f6a12ae
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Augmented.unity
+    path: Assets/Kaviya_old/Scenes/Augmented.unity
     guid: cac1bdeed5d32a648a8e1055994b2022
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Control.unity
+    path: Assets/Kaviya_old/Scenes/Control.unity
     guid: efa6646e97cc68741be11814b6d25dee
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQA.unity
+    path: Assets/Kaviya_old/Scenes/FAQA.unity
     guid: e05b094c0daa9f541a8469b26f09b9ad
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQB.unity
+    path: Assets/Kaviya_old/Scenes/FAQB.unity
     guid: 807e0eb1b4238c143b64fc25e8ac7fd8
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQC.unity
+    path: Assets/Kaviya_old/Scenes/FAQC.unity
     guid: 9d195facf3df0ad4d83c6851916d018f
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQD.unity
+    path: Assets/Kaviya_old/Scenes/FAQD.unity
     guid: 33c586b8e0628cc4ab891b8e479de4c8
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQE.unity
+    path: Assets/Kaviya_old/Scenes/FAQE.unity
     guid: 982198ac645cc2842b62a5240661028e
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQF.unity
+    path: Assets/Kaviya_old/Scenes/FAQF.unity
     guid: a6238bbaaca539c4bbd9511a14a21fe6
   - enabled: 1
-    path: Assets/Kaviya/Scenes/FAQG.unity
+    path: Assets/Kaviya_old/Scenes/FAQG.unity
     guid: 35c173d01b052ee4ba6d42ec5884c0e9
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Gestures.unity
+    path: Assets/Kaviya_old/Scenes/Gestures.unity
     guid: a52d1651aaabd1549bb1eb45e67e4b43
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Help.unity
+    path: Assets/Kaviya_old/Scenes/Help.unity
     guid: 2e71c0f924698ad4b9d9b91ba5310c38
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Hologram.unity
+    path: Assets/Kaviya_old/Scenes/Hologram.unity
     guid: 6f487e63b33be9445980b110531c586a
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Hololens.unity
+    path: Assets/Kaviya_old/Scenes/Hololens.unity
     guid: 1d6c1150f498e414298a7631189c785b
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Immersion.unity
+    path: Assets/Kaviya_old/Scenes/Immersion.unity
     guid: 0b26441c7d8740d45a36f8076ea9549c
   - enabled: 1
-    path: Assets/Kaviya/Scenes/MainMenu.unity
+    path: Assets/Kaviya_old/Scenes/MainMenu.unity
     guid: 816bad800c2fb3a4a83cb621a1963448
   - enabled: 1
-    path: Assets/Kaviya/Scenes/PHOBOS.unity
+    path: Assets/Kaviya_old/Scenes/PHOBOS.unity
     guid: 70f71a2c84907a34e824e91edc219707
   - enabled: 1
-    path: Assets/Kaviya/Scenes/PlayAnimation.unity
+    path: Assets/Kaviya_old/Scenes/PlayAnimation.unity
     guid: ee9c812482c72f9499515528b0a80237
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Prototype.unity
+    path: Assets/Kaviya_old/Scenes/Prototype.unity
     guid: f9802eb6e27f67548bfff40281225d21
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Simulation.unity
+    path: Assets/Kaviya_old/Scenes/Simulation.unity
     guid: 7131a50806393e34c870f4635f312332
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Terminologies.unity
+    path: Assets/Kaviya_old/Scenes/Terminologies.unity
     guid: 48f54090b711d664685834edc165ee66
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Virtual.unity
+    path: Assets/Kaviya_old/Scenes/Virtual.unity
     guid: b0b0340c0bc41034f9287fb74a579c8c
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Leo/Bloom.unity
+    path: Assets/Kaviya_old/Scenes/Leo/Bloom.unity
     guid: 9352de7b99b276b45be04983952ddbad
   - enabled: 1
-    path: Assets/Kaviya/Scenes/Leo/Pinch.unity
+    path: Assets/Kaviya_old/Scenes/Leo/Pinch.unity
     guid: a5d9c39810ac75041bd6d56b843792bd
   - enabled: 1
-    path: Assets/Kaviya/Scenes/BloomAnimation.unity
+    path: Assets/Kaviya_old/Scenes/BloomAnimation.unity
     guid: 8d9947a17a8153c4bbb5ff315146f213
   - enabled: 1
-    path: Assets/Kaviya/Scenes/PinchAnimation.unity
+    path: Assets/Kaviya_old/Scenes/PinchAnimation.unity
     guid: 1cf9891ca0be7d74da99b94d4690bfed
+  - enabled: 1
+    path: Assets/Scenes/Kong Scenes/Test5.unity
+    guid: e693781878ee21042ba3c14f1ccc1617
+  - enabled: 1
+    path: Assets/Scenes/Navya/Test2.unity
+    guid: 1914e1b9d4ef20843a24d3ff34110618
   m_configObjects: {}

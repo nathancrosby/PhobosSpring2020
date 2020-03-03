@@ -12,11 +12,11 @@ public class HelpMenu : MonoBehaviour
     }
     public void Simulation()
     {
-        SceneManager.LoadScene("PlayAnimation");
+        SceneManager.LoadScene("Test2");
     }
     public void Gestures()
     {
-        SceneManager.LoadScene("Bloom");
+        SceneManager.LoadScene("Test5");
     }
     
 }
