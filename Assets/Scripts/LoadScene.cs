@@ -32,13 +32,17 @@ public class LoadScene : MonoBehaviour
         }
         if (gameObject.name=="Bloom")
         {
-            SceneManager.LoadScene("BloomAnimation");
+            SceneManager.LoadScene("Bloom");
         }
         if (gameObject.name == "Pinch")
         {
-            SceneManager.LoadScene("PinchAnimation");
+            SceneManager.LoadScene("Pinch");
+        }
+        if (gameObject.name == "Back")
+        {
+            SceneManager.LoadScene("1-Menu");
         }
 
     }
 }
-
+ 

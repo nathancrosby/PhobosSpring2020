@@ -140,6 +140,7 @@
     <Compile Include="Assets\Scenes\Bhagya's Scenes\parent1.cs" />
     <Compile Include="Assets\Scripts\BackButton.cs" />
     <Compile Include="Assets\Scripts\BackPanelAnimation.cs" />
+    <Compile Include="Assets\Scripts\HLProjectController.cs" />
     <Compile Include="Assets\Scripts\InitializeProcess.cs" />
     <Compile Include="Assets\Scripts\LoadPanel.cs" />
     <Compile Include="Assets\Scripts\LoadScene.cs" />

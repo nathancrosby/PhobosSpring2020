@@ -17,7 +17,6 @@ public class LoadPanel : MonoBehaviour
     
     public void OnSelect()
     {
-
         previous.SetActive(false);
         next.SetActive(true);        
     }

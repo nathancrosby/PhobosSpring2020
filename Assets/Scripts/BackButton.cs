@@ -17,11 +17,10 @@ public class BackButton : MonoBehaviour
     // Start is called before the first frame update
     public void OnSelect()
     {
-        " Hologram : It is technique in which the 
-light beams from the object are
-processed into a 3D - image and
- can be seen through the holographic
- frame.";
+        if (gameObject.name == "BloomBack")
+        {
+            SceneManager.LoadScene("1-Menu");
+        }
         current.SetActive(false);
         previous.SetActive(true);
     }
