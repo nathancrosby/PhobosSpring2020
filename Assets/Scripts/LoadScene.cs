@@ -1,12 +1,12 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    public MeshRenderer m_ButtonHighlight;
-    public GameObject scenename;
+    private MeshRenderer m_ButtonHighlight;
 
     private
     // Start is called before the first frame update
@@ -21,8 +21,24 @@ public class LoadScene : MonoBehaviour
 
     public void OnSelect()
     {
-        //Debug.Log("OnSelect() called on: " + gameObject.name);
-        SceneManager.LoadScene(scenename);
+        
+        if (gameObject.name == "Watch")
+        {
+            SceneManager.LoadScene("Test2");
+        }
+        if (gameObject.name == "Act")
+        {
+            SceneManager.LoadScene("Test5");
+        }
+        if (gameObject.name=="Bloom")
+        {
+            SceneManager.LoadScene("BloomAnimation");
+        }
+        if (gameObject.name == "Pinch")
+        {
+            SceneManager.LoadScene("PinchAnimation");
+        }
+
     }
 }
 
